@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    background-image: url(eye.png);
+    background-size: 900px;
+}
+.Punto{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+.si{
+    color: white;
+    font-size: 40px;
+
+}
+.linea{
+    height: 15px;
+}
+.hehe{
+    height: 800px;
+}
+.ti{
+    color: white;
+    size: 35px;
+}
